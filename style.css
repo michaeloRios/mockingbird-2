@@ -1,0 +1,75 @@
+nav ul {
+background-color: Red; 
+}
+nav ul li {
+list-style-type: none;
+}
+nav ul li {
+font-size:1.25rem;
+list-style-type: none;
+display: inline;
+margin-right:20px;
+margin-left: 20px;
+}
+nav ul {
+text-align: center; 
+background-color: brown; 
+border-style: solid;
+border-color: black;
+border-width: 2px;
+padding: 10px;
+}
+nav ul li a {
+    text-decoration: none;
+}
+img{
+  widgth:400px;
+  height:250px;
+  border-radius: 10px;
+}
+h1 {
+font-size: 2.80rem;
+text-align:center;
+color: red;
+font-family: 'Girassol', cursive;
+font-family: 'Roboto Mono', monospace;
+}
+h2 { 
+position: absolute;
+top: 18px;
+left: 50px;
+font-size: 1.7rem;
+color: red;
+font-family: 'Girassol', cursive;
+font-family: 'Roboto Mono', monospace;
+
+}
+h3 {
+position: absolute;
+top:40px;
+left: 1100px;
+font-size: 1.7rem;
+color: red;
+font-family: 'Girassol', cursive;
+font-family: 'Roboto Mono', monospace;
+}
+h4{
+position: absolute;
+top: 5px;
+left: 1100px;
+font-size: 1.7rem;
+color: red;
+font-family: 'Girassol', cursive;
+font-family: 'Roboto Mono', monospace;
+}
+li{
+  color:red;
+  font-family: 'Girassol', cursive;
+font-family: 'Roboto Mono', monospace;
+  border-color: red;
+}
+ul{
+  color:black;
+ font-family: 'Girassol', cursive;
+font-family: 'Roboto Mono', monospace;
+  border-color: red;
